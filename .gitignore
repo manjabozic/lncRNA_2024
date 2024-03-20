@@ -1,0 +1,13 @@
+trimmed_reads/
+reference_genome/
+01_mapping/indexes/ 
+02_assembly/stringtie/Ls_C_24.gtf
+02_assembly/stringtie/Ls_C_6.gtf
+02_assembly/stringtie/Ls_T_24.gtf
+02_assembly/stringtie/Ls_T_6.gtf
+02_assembly/stringtie/Lt_C_24.gtf
+02_assembly/stringtie/Lt_C_6.gtf
+02_assembly/stringtie/Lt_T_24.gtf
+02_assembly/stringtie/Lt_T_6.gtf
+02_assembly/stringtie/Merged_samples.gtf
+
